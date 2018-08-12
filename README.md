@@ -8,5 +8,5 @@ Python practice exercises for the Bertelsmann Data Science Scholarship Challenge
 
 ## Versions:
 
-IDE - Anaconda Spyder 3.2.8
-Python 3.6
+- IDE - Anaconda Spyder 3.2.8
+- Python 3.6
