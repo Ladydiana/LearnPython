@@ -1,9 +1,12 @@
-# LearnPython
+# 📔 Python Practice Exercises 🐍
 
 
-##Description
+## Description:
+
 Python practice exercises for the Bertelsmann Data Science Scholarship Challenge, powered by Udacity.
 
-##Version
+
+## Versions:
+
 IDE - Anaconda Spyder 3.2.8
 Python 3.6
